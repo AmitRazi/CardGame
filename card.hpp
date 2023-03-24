@@ -21,8 +21,6 @@ namespace ariel {
 
         Card(Suit, Rank);
 
-        Card(Card const &);
-
         int get_value() const;
 
         int get_suit() const;
