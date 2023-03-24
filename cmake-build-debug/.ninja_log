@@ -1,0 +1,7 @@
+# ninja log v5
+76	268	7011028135010823	CMakeFiles/CardGame.dir/game.cpp.obj	b7b2a6f562855d83
+61	270	7011028135023843	CMakeFiles/CardGame.dir/card.cpp.obj	d38dcfd69ace2b13
+45	281	7011028135296679	CMakeFiles/CardGame.dir/player.cpp.obj	2abd5ad24af95e01
+16	1089	7011028143395850	CMakeFiles/CardGame.dir/main.cpp.obj	47508e4f857e42f6
+0	5623	7011028188628977	CMakeFiles/CardGame.dir/TestCounter.cpp.obj	aa8409bc36eb12b3
+3	758	7013577099096098	CMakeFiles/CardGame.dir/main.cpp.obj	47508e4f857e42f6
